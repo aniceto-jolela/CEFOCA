@@ -1,0 +1,32 @@
+/*============== TODOS ====================*/
+body{font-size: 13px;}
+#foto{width:176px;}
+#republica{width:60px;}
+h3{
+    text-decoration:underline;
+    text-align:center;
+}
+#tabela{
+    border: 1px #000 solid;text-align:center;
+    margin: auto;
+}
+th,td{
+    border: 1px #000 solid;
+}
+#data,#flh_n{text-align: right;}
+/* Cor na linha do ecarregado difierente (relatótio)*/
+.info{background: #D6DBE0;}
+/*End cor*/
+/*============== SALÁRIO ====================*/
+#tabela_top{
+    border: 1px black solid;
+    margin-left: 200px;
+}
+#foto{
+    border-radius: 250%;
+    height: 120px;
+    width: 120px;
+}
+
+
+
