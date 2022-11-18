@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteCod %
+{HTTPS} off
+RewriteRule(.*)
+https://%
+{HTTP_HOST}%
+{REQUEST_URL}
