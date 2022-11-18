@@ -6,18 +6,16 @@
     <h1>CEFOCA</h1>
 </div>
 
-# Sumário
+# Summary
 
-* [Dependência](#dependencias)
-* [Dependência de desenvolvimento](#dependencia-de-desenvolvimento)
-* [Pré requisitos](#pre-requisitos)
-* [Rodando o Front-End](#rodando-o-front-end)
-* [Tecnologias](#tecnologias)
+* [Prerequisites](#prerequisites)
+* [Running-the-Front-End](#running-the-front-end)
+* [Technologies](#technologies)
 
 
 <p style='text-align:center '>
-    <h2>Este é um projecto de inscrição de um centro de formação </h2> 
-    <h2>Um sistema completo: front-end, back-end e base-dados </h2> 
+    <h2>This is a registration project for a training center  </h2> 
+    <h2>A complete system: front-end, back-end and database </h2> 
 </p>
 
 <p style='text-align:center '>
@@ -41,31 +39,31 @@
 </p>
 
 
-## Pre-requisitos
+## prerequisites
 
-Para rodar o projecto em sua máquina vai precisar instalar as seguintes ferramentas:</br>
-[Git](https://git-scm.com), [Netbens](https://netbeans.apache.org/kb/), [Xamp](https://www.apachefriends.org/pt_br/download.html) ou [Wamp](https://www.wampserver.com/).</br>
+To run the project on your machine you will need to install the following tools:</br>
+[Git](https://git-scm.com), [Netbens](https://netbeans.apache.org/kb/), [Xamp](https://www.apachefriends.org/pt_br/download.html) or [Wamp](https://www.wampserver.com/).</br>
 
 
-## Rodando-o-Front-End
+## Running-the-Front-End
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/aniceto-jolela/CEFOCA.git
 
-# Acesse a pasta do projecto no terminal/cmd
+# Access the project folder in terminal/cmd
 $ cd CEFOCA
 
-#Importa a base de dados no mysqlAdmin
-$ cefoca.sql
+# Import database in phpMyAdmin
+$ cd/xamp/hdocs/CEFOCA/bd/cefoca.sql
 
-# Usuário  |  Senha
-$ admin    |  1234
+#  User    |  Password
+$ admin    |   1234
 
 ```
-### Tecnologias
+### Technologies
 
-As seguintes ferramentas foram usadas na construção do projecto:
+The following tools were used in the construction of the project:
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [PHP](https://www.php.net/docs.php)
@@ -83,5 +81,5 @@ As seguintes ferramentas foram usadas na construção do projecto:
 - [Dompdf](https://github.com/dompdf/dompdf)
 - db2phpnb-1.107.nbm
 
-###### Autor : Aniceto Jolela 🥰
+###### Author : Aniceto Jolela 🥰
 - [Linkedin](https://www.linkedin.com/in/aniceto-jolela-076547184/)
