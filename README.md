@@ -1,5 +1,5 @@
 
-<p style='text-align:center '>
+<p align='center'>
     <img src='readme/logo.png' width=150 /><br/><br/>
 </p>
 <div style='text-align:center '>
